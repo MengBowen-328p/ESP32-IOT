@@ -1,0 +1,5 @@
+D:/PlatformIO_Projects/Projects/ESP32-IOT/cmake-build-debug/CMakeFiles/Production.dir
+D:/PlatformIO_Projects/Projects/ESP32-IOT/cmake-build-debug/CMakeFiles/Debug.dir
+D:/PlatformIO_Projects/Projects/ESP32-IOT/cmake-build-debug/CMakeFiles/Z_DUMMY_TARGET.dir
+D:/PlatformIO_Projects/Projects/ESP32-IOT/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PlatformIO_Projects/Projects/ESP32-IOT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

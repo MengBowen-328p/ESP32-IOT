@@ -1,0 +1,4 @@
+"D:\Clion\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=esp32-c3-devkitm-1 "-DCMAKE_MAKE_PROGRAM=D:/Clion/CLion 2022.2.3/bin/ninja/win/ninja.exe" -DCMAKE_C_COMPILER=D:/gcc-arm-none-eabi/bin/arm-none-eabi-gcc.exe -DCMAKE_CXX_COMPILER=D:/gcc-arm-none-eabi/bin/arm-none-eabi-g++.exe -G Ninja -S D:\PlatformIO_Projects\Projects\ESP32-IOT -B D:\PlatformIO_Projects\Projects\ESP32-IOT\cmake-build-esp32-c3-devkitm-1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/PlatformIO_Projects/Projects/ESP32-IOT/cmake-build-esp32-c3-devkitm-1

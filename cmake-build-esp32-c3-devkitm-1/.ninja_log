@@ -1,0 +1,15 @@
+# ninja log v5
+1	8614	0	CMakeFiles/Debug	d61e7490dfa02571
+1	8614	0	D:/PlatformIO_Projects/Projects/ESP32-IOT/cmake-build-esp32-c3-devkitm-1/CMakeFiles/Debug	d61e7490dfa02571
+2	1177	6950200929911297	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/esp32-c3-devkitm-1/MQTT/src/lwmqtt/helpers.c.obj	58fe9f4bde908b64
+61	699	6950200925093082	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/esp32-c3-devkitm-1/MQTT/src/lwmqtt/packet.c.obj	f85c32ddfe2b5c8b
+1	6874	0	CMakeFiles/Production	8e43ecc2f9cbbfdc
+1	6874	0	D:/PlatformIO_Projects/Projects/ESP32-IOT/cmake-build-esp32-c3-devkitm-1/CMakeFiles/Production	8e43ecc2f9cbbfdc
+33	660	6950200924703100	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/esp32-c3-devkitm-1/MQTT/src/lwmqtt/client.c.obj	10359070e30129e6
+45	1163	6950200929771159	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/esp32-c3-devkitm-1/MQTT/src/lwmqtt/string.c.obj	10b8ad9184f669cc
+20	4900	6950200967119402	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/esp32-c3-devkitm-1/MQTT/src/MQTTClient.cpp.obj	c21883e5761de88c
+81	5305	6950200971191762	CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.obj	557c63877b018d31
+1	40443	0	CMakeFiles/Production	8e43ecc2f9cbbfdc
+1	40443	0	D:/PlatformIO_Projects/Projects/ESP32-IOT/cmake-build-esp32-c3-devkitm-1/CMakeFiles/Production	8e43ecc2f9cbbfdc
+1	7229	0	CMakeFiles/Production	8e43ecc2f9cbbfdc
+1	7229	0	D:/PlatformIO_Projects/Projects/ESP32-IOT/cmake-build-esp32-c3-devkitm-1/CMakeFiles/Production	8e43ecc2f9cbbfdc
